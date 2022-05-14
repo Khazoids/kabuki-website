@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Khazoids.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fake website"
+	}
+}
